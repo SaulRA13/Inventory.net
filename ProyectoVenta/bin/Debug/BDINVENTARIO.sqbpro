@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="D:/Work/programas/SistemaInventario/ProyectoVenta/bin/Debug/BDINVENTARIO.db" readonly="0" foreign_keys="" case_sensitive_like="" temp_store="" wal_autocheckpoint="" synchronous=""/><attached/><window><main_tabs open="structure browser pragmas query" current="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="125"/><column_width id="3" width="4205"/><column_width id="4" width="0"/></tab_structure><tab_browse><current_table name="0,0:"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="SQL 1">select DISTINCT * from (
+select p.IdProducto,p.Codigo,p.Descripcion,p.Categoria,p.Almacen,p.Stock from DETALLE_ENTRADA de
+inner join ENTRADA e on e.IdEntrada = de.IdEntrada
+inner join PRODUCTO p on p.IdProducto = de.IdProducto where e.FechaRegistro = '2022-10-30'
+UNION ALL
+select p.IdProducto,p.Codigo,p.Descripcion,p.Categoria,p.Almacen,p.Stock from DETALLE_SALIDA ds
+inner join SALIDA s on s.IdSalida = ds.IdSalida
+inner join PRODUCTO p on p.IdProducto = ds.IdProducto where s.FechaRegistro = '2022-10-30'
+) prod
+left join (
+select p.IdProducto,sum(de.Cantidad)[Entradas],sum(CAST(de.SubTotal as NUMERIC))[TotalEgresos], e.NombreProveedor[Tienda] from PRODUCTO p
+inner join DETALLE_ENTRADA de on de.IdProducto = p.IdProducto
+inner join ENTRADA e on e.IdEntrada = de.IdEntrada where e.FechaRegistro = '2022-10-30'
+group by p.IdProducto,p.Codigo,p.Descripcion,p.Categoria,p.Almacen
+) ent on ent.IdProducto = prod.IdProducto
+left join(
+select IdProducto, Salidas from (
+select p.IdProducto,sum(s.CantidadProductos)[Salidas] from PRODUCTO p
+inner join DETALLE_SALIDA ds on ds.IdProducto = p.IdProducto
+inner join SALIDA s on s.IdSalida = ds.IdSalida where s.FechaRegistro = '2022-10-30'
+group by p.IdProducto
+UNION ALL
+select p.IdProducto,sum(s.CantidadProductos)[Salidas] from PRODUCTO p
+inner join APARTADO ds on ds.IdProducto = p.IdProducto
+inner join SALIDA s on s.IdSalida = ds.IdSalida where s.FechaRegistro = '2022-10-30'
+group by p.IdProducto
+)group by IdProducto) num on num.IdProducto = prod.IdProducto 
+left join (
+select p.IdProducto,sum(CAST(ds.SubTotal as NUMERIC))[TotalIngresos] from PRODUCTO p
+inner join DETALLE_SALIDA ds on ds.IdProducto = p.IdProducto
+inner join SALIDA s on s.IdSalida = ds.IdSalida where s.FechaRegistro = '2022-10-30'
+group by p.IdProducto
+) sal on sal.IdProducto = prod.IdProducto
+
+</sql><sql name="SQL 3">select DISTINCT * from (
+select p.IdProducto,p.Codigo,p.Descripcion,p.Categoria,p.Almacen,p.Stock from DETALLE_ENTRADA de
+inner join ENTRADA e on e.IdEntrada = de.IdEntrada
+inner join PRODUCTO p on p.IdProducto = de.IdProducto where e.FechaRegistro = '2022-07-31'
+UNION ALL
+select p.IdProducto,p.Codigo,p.Descripcion,p.Categoria,p.Almacen,p.Stock from DETALLE_SALIDA ds
+inner join SALIDA s on s.IdSalida = ds.IdSalida
+inner join PRODUCTO p on p.IdProducto = ds.IdProducto where s.FechaRegistro = '2022-10-30'
+) prod
+left join (
+select p.IdProducto,sum(de.Cantidad)[Entradas],sum(CAST(de.SubTotal as NUMERIC))[TotalEgresos], e.NombreProveedor[Tienda] from PRODUCTO p
+inner join DETALLE_ENTRADA de on de.IdProducto = p.IdProducto
+inner join ENTRADA e on e.IdEntrada = de.IdEntrada where e.FechaRegistro = '2022-10-30'
+group by p.IdProducto,p.Codigo,p.Descripcion,p.Categoria,p.Almacen
+) ent on ent.IdProducto = prod.IdProducto
+left join (
+select p.IdProducto,sum(ds.Cantidad)[Salidas],sum(CAST(ds.SubTotal as NUMERIC))[TotalIngresos], s.NombreCliente[Clientew] from PRODUCTO p
+inner join DETALLE_SALIDA ds on ds.IdProducto = p.IdProducto
+inner join SALIDA s on s.IdSalida = ds.IdSalida where s.FechaRegistro = '2022-10-30'
+group by p.IdProducto
+) sal on sal.IdProducto = prod.IdProducto
+left join (
+select p.IdProducto, sum(ds.Cantidad)[Apartados] from PRODUCTO p
+inner join APARTADO ds on ds.IdProducto = p.IdProducto
+inner join SALIDA s on s.IdSalida = ds.IdSalida where s.FechaRegistro = '2022-10-30'
+group by p.IdProducto
+) apa on apa.IdProducto = prod.IdProducto</sql><current_tab id="1"/></tab_sql></sqlb_project>

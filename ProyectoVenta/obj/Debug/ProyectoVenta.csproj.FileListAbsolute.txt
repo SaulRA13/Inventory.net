@@ -1,0 +1,204 @@
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\FontAwesome.Sharp.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Inicio.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Intermedios.IProductos.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Properties.Resources.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.GenerateResource.cache
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.frmRegistrarProducto.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Productos.frmCargarProducto.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Intermedios.ISalidas.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Salidas.frmRegistrarSalida.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Entradas.frmListarEntradas.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Salidas.frmListarSalidas.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Salidas.frmDetalleSalida.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Entradas.frmRegistrarEntrada.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Intermedios.IEntradas.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Entradas.frmDetalleEntrada.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Clientes.frmClientes.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Proveedores.frmProveedores.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Inventario.frmInventario.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\BouncyCastle.Crypto.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\NPOI.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\NPOI.OOXML.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\NPOI.OpenXml4Net.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\NPOI.xml
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\NPOI.OOXML.xml
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\BDINVENTARIO.db
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\EntityFramework.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\System.Data.SQLite.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\System.Data.SQLite.EF6.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\System.Data.SQLite.Linq.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\EntityFramework.xml
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\System.Data.SQLite.xml
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\BarcodeLib.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Modales.mdProveedores.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Modales.mdProductos.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\ClosedXML.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\DocumentFormat.OpenXml.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\ExcelNumberFormat.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\System.IO.Packaging.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\ClosedXML.pdb
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\ClosedXML.xml
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\DocumentFormat.OpenXml.xml
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\ExcelNumberFormat.xml
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\itextsharp.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\itextsharp.xmlworker.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\itextsharp.xml
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Modales.mdClientes.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Modales.mdSalidaExitosa.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Configuracion.frmConfiguracion.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Intermedios.IConfiguracion.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Permisos.frmPermisos.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Usuarios.frmUsuarios.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.frmLogin.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\ProyectoVenta.Modales.mdAcercade.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\CE Inventario Libre.exe.config
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\CE Inventario Libre.exe
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\bin\Debug\CE Inventario Libre.pdb
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\CE Inventario Libre.exe
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaPuntoVenta\ProyectoVenta\obj\Debug\CE Inventario Libre.pdb
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\BDINVENTARIO.db
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\CE Inventario Libre.exe.config
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\CE Inventario Libre.exe
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\CE Inventario Libre.pdb
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\BarcodeLib.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\BouncyCastle.Crypto.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\ClosedXML.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\DocumentFormat.OpenXml.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\EntityFramework.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\ExcelNumberFormat.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\FontAwesome.Sharp.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\itextsharp.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\itextsharp.xmlworker.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\NPOI.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\NPOI.OOXML.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\NPOI.OpenXml4Net.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\System.Data.SQLite.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\System.Data.SQLite.EF6.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\System.Data.SQLite.Linq.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\System.IO.Packaging.dll
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\ClosedXML.pdb
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\ClosedXML.xml
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\DocumentFormat.OpenXml.xml
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\EntityFramework.xml
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\ExcelNumberFormat.xml
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\itextsharp.xml
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\NPOI.xml
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\NPOI.OOXML.xml
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\bin\Debug\System.Data.SQLite.xml
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Clientes.frmClientes.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Configuracion.frmConfiguracion.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Entradas.frmDetalleEntrada.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Entradas.frmListarEntradas.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Entradas.frmRegistrarEntrada.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.frmLogin.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Inventario.frmInventario.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Permisos.frmPermisos.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Productos.frmCargarProducto.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.frmRegistrarProducto.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Inicio.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Proveedores.frmProveedores.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Salidas.frmDetalleSalida.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Salidas.frmListarSalidas.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Salidas.frmRegistrarSalida.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Usuarios.frmUsuarios.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Intermedios.IConfiguracion.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Intermedios.IEntradas.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Intermedios.IProductos.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Intermedios.ISalidas.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Modales.mdAcercade.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Modales.mdClientes.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Modales.mdProductos.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Modales.mdProveedores.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Modales.mdSalidaExitosa.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Properties.Resources.resources
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.GenerateResource.cache
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\CE Inventario Libre.exe
+D:\WorkSpaceAD\YOUTUBE\037_PUNTO VENTA SENCILLO\SistemaInventario\ProyectoVenta\obj\Debug\CE Inventario Libre.pdb
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\BDINVENTARIO.db
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\CE Inventario Libre.exe.config
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\CE Inventario Libre.exe
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\CE Inventario Libre.pdb
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\BarcodeLib.dll
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\BouncyCastle.Crypto.dll
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\ClosedXML.dll
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\EntityFramework.dll
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\ExcelNumberFormat.dll
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\FontAwesome.Sharp.dll
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\itextsharp.dll
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\itextsharp.xmlworker.dll
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\NPOI.dll
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\NPOI.OOXML.dll
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\System.Data.SQLite.dll
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\System.IO.Packaging.dll
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\ClosedXML.pdb
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\ClosedXML.xml
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\EntityFramework.xml
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\ExcelNumberFormat.xml
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\itextsharp.xml
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\NPOI.xml
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\NPOI.OOXML.xml
+D:\Work\programas\SistemaInventario\ProyectoVenta\bin\Debug\System.Data.SQLite.xml
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.AssemblyReference.cache
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.SuggestedBindingRedirects.cache
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Clientes.frmClientes.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Configuracion.frmConfiguracion.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Entradas.frmDetalleEntrada.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Entradas.frmListarEntradas.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Entradas.frmRegistrarEntrada.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.frmLogin.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Inventario.frmInventario.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Permisos.frmPermisos.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Productos.frmCargarProducto.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.frmRegistrarProducto.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Inicio.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Proveedores.frmProveedores.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Salidas.frmDetalleSalida.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Salidas.frmListarSalidas.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Salidas.frmRegistrarSalida.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Formularios.Usuarios.frmUsuarios.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Intermedios.IConfiguracion.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Intermedios.IEntradas.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Intermedios.IProductos.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Intermedios.ISalidas.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Modales.mdAcercade.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Modales.mdClientes.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Modales.mdProductos.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Modales.mdProveedores.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Modales.mdSalidaExitosa.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.Properties.Resources.resources
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.GenerateResource.cache
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.CoreCompileInputs.cache
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\ProyectoVenta.csproj.CopyComplete
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\CE Inventario Libre.exe
+D:\Work\programas\SistemaInventario\ProyectoVenta\obj\Debug\CE Inventario Libre.pdb
